@@ -1,5 +1,5 @@
 # Sagra
-Githuib de el prpyecto Sagra
+Github de el proyecto Sagra
 
 
 Este github contiene el proyecto prototipo para el movimiento y otros sistemas del juego.
